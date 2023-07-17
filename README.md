@@ -1,7 +1,7 @@
 <h1>Iphone-14<h1/>
 <br>
 <br>
-<h2>Projeto criando a pagina inicial do iphone 14 na loja da apple.</h2>
+<h2>Projeto criando a pagina inicial do iphone 14 na loja da apple :iphone:</h2>
 
 <h2>- Tecnologias utilizadas</h2>
 <br>
